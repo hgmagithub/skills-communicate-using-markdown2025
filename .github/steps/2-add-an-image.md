@@ -13,12 +13,12 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 ### Example
 
 ```md
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/Forktocat.png)
 ```
 
 #### How it looks
 
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=600>
 
 ### :keyboard: Activity: Adding an image
 
