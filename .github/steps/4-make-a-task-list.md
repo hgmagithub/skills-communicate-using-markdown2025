@@ -38,7 +38,7 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
    ```
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
-  1. Use Markdown to create a task list. Here is another example: 
+1. Use Markdown to create a task list. Here is another example: 
    ```md
    - [ ] Point to the Github repo
    - [ ] Make changes
